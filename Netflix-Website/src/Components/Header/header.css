@@ -2,7 +2,7 @@
     position:sticky;
     top: 0;
     display: flex;
-    /* justify-content: center; */
+    justify-content: center;
     align-items: center;
     /* background-color: rgb(148, 132, 132); */
     background-color:  rgb(20, 20, 20);
@@ -36,7 +36,7 @@
 .header_right ul{
     width: 150%;
     display: flex;
-    justify-content: space-around;
+    justify-content: space-between;
     list-style: none;
     cursor: pointer;
     /* background-color: lightgreen; */
